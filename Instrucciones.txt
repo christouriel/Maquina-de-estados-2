@@ -1,0 +1,3 @@
+La maquina de turing realiza la inversa de binarios ejemplo si ingresas 1111 te dara de resultado 1 0000
+El automata de pila realiza una comprobacion de cadenas la misma cantidad de "a" como de "b"
+El automata finito hace comprobacion de contraseñas como aceptacion recibe 4 letras, 1 simbolo y 3 numeros
